@@ -9,7 +9,7 @@ I have led document management and organization initiatives that improved access
 
 I am passionate about ICT and the potential they have to transform raw data into meaningful information, elevating this valuable resource to a level of organizational wisdom. ⛏️➡️👨🏾‍💻➡️⚙️➡️🔎➡️🧠➡️💡
 
-My purpose is to drive growth, efficiency, and sustainability within organizations through the strategic use of Data Science and Document Management, integrating these transversal disciplines to build robust, scalable solutions aligned with business goals. I am always learning and open to new challenges that allow me to generate value in my work. 📉➡️📈
+My purpose is to drive growth, efficiency, and sustainability within organizations through the strategic use of Data Science, IT and Document Management, integrating these transversal disciplines to build robust, scalable solutions aligned with business goals. I am always learning and open to new challenges that allow me to generate value in my work. 📉➡️📈
 
 # 💼 Job Profile:
 
