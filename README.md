@@ -1,5 +1,15 @@
 # ℹ️ About Me:
-I'm an Information Management professional, specialized in Data Science and Analytics, with experience in the public and private sectors; my work covers information management in physical or electronic formats, as well as structured, semi-structured, and unstructured data. 📄=⛁<br><br>I handle the entire process, from data extraction and cleaning to making it available for model application, aiming to solve business problems and use cases. 💽+📄+📚+🗃️=📊<br><br>I am passionate about ICT, as it allows us to transform raw data into relevant information for decision-making, elevating it to a level of wisdom. ⛏️➡️👨🏾‍💻➡️⚙️➡️🔎➡️🧠➡️💡<br><br>My goal is to drive growth and efficiency in companies and organizations, using Data Science and Document Management as strategic tools. I am always learning, seeking new challenges and opportunities to apply my experience and knowledge. 📉➡️📈
+Thank you for visiting my profile! 👋
+
+I am an IT Administration professional specialized in Data Science and Analytics, with experience in both the public and private sectors. My work spans the integral management of information—whether in physical or electronic formats—and the processing of structured, semi‑structured, and unstructured data. 📄=⛁
+
+I have participated in activities that cover the entire data life cycle: from design, extraction, cleansing, and loading, to ensuring its availability for solving business problems or supporting use cases. My goal is to transform data and information into actionable knowledge that helps organizations make better decisions and minimize risks. 💽+📄+📚+🗃️=📊
+
+I have led document management and organization initiatives that improved access to information, reducing search times and strengthening the creation of historical records. 📄 ➡️📚 ➡️🗂️➡️🗄️
+
+I am passionate about ICT and the potential they have to transform raw data into meaningful information, elevating this valuable resource to a level of organizational wisdom. ⛏️➡️👨🏾‍💻➡️⚙️➡️🔎➡️🧠➡️💡
+
+My purpose is to drive growth, efficiency, and sustainability within organizations through the strategic use of Data Science and Document Management, integrating these transversal disciplines to build robust, scalable solutions aligned with business goals. I am always learning and open to new challenges that allow me to generate value in my work. 📉➡️📈
 
 # 💼 Job Profile:
 
