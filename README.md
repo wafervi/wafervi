@@ -1,7 +1,7 @@
 # ℹ️ About Me:
 Thank you for visiting my profile! 👋
 
-I am an IT Administration professional specialized in Data Science and Analytics, with experience in both the public and private sectors. My work spans the integral management of information whether in physical or electronic formats and the processing of structured, semi‑structured, and unstructured data. 📄=⛁
+I'm an IT Administration professional specialized in Data Science and Analytics, with experience in both the public and private sectors. My work spans the integral management of information whether in physical or electronic formats and the processing of structured, semi‑structured, and unstructured data. 📄=⛁
 
 I have participated in activities that cover the entire data life cycle: from design, extraction, cleansing, and loading, to ensuring its availability for solving business problems or supporting use cases. My goal is to transform data and information into actionable knowledge that helps organizations make better decisions and minimize risks. 💽+📄+📚+🗃️=📊
 
