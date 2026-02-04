@@ -13,6 +13,7 @@ My purpose is to drive growth, efficiency, and sustainability within organizatio
 
 # 💼 Job Profile:
 
+* 🔀Data Architect 
 * ⛁Data Engineer
 * 📊Data Scientist
 * 🔐Data Steward
