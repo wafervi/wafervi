@@ -1,15 +1,11 @@
 # ℹ️ About Me:
 Thank you for visiting my profile! 👋
 
-I'm an IT Administration professional specialized in Data Science and Analytics, with experience in both the public and private sectors. My work spans the integral management of information whether in physical or electronic formats and the processing of structured, semi‑structured, and unstructured data. 📄=⛁
+Information Administration Professional, specialized in Data Science and Analytics, with experience in both the public and private sectors. My expertise combines information management across physical and digital environments, as well as the processing and analysis of structured, semi-structured, and unstructured data. 📄=⛁
 
-I have participated in activities that cover the entire data life cycle: from design, extraction, cleansing, and loading, to ensuring its availability for solving business problems or supporting use cases. My goal is to transform data and information into actionable knowledge that helps organizations make better decisions and minimize risks. 💽+📄+📚+🗃️=📊
+I have participated in and led initiatives covering the entire data lifecycle, from design, collection, extraction, cleansing, transformation, and data availability, to its effective use for knowledge generation and decision-making support. In parallel, I have driven document management and information governance initiatives that optimize information access, reduce retrieval times, and strengthen organizational and institutional knowledge preservation. 💽+📄+📚+🗃️=📊
 
-I have led document management and organization initiatives that improved access to information, reducing search times and strengthening the creation of historical records. 📄 ➡️📚 ➡️🗂️➡️🗄️
-
-I am passionate about ICT and the potential they have to transform raw data into meaningful information, elevating this valuable resource to a level of organizational wisdom. ⛏️➡️👨🏾‍💻➡️⚙️➡️🔎➡️🧠➡️💡
-
-My purpose is to drive growth, efficiency, and sustainability within organizations through the strategic use of Data Science, IT and Document Management, integrating these transversal disciplines to build robust, scalable solutions aligned with business goals. I am always learning and open to new challenges that allow me to generate value in my work. 📉➡️📈
+Passionate about Information and Communication Technologies (ICT), Data Science, and Records & Information Management, I focus on integrating these disciplines to transform data and information into strategic assets, developing efficient, scalable, and business-aligned solutions that support continuous improvement and organizational growth. ⛏️➡️👨🏾‍💻➡️⚙️➡️🔎➡️🧠➡️💡
 
 # 💼 Job Profile:
 
